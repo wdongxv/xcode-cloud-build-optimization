@@ -114,7 +114,6 @@ Warning: Problem : timeout. Will retry in 2 seconds. 1 retries left.
 
 #### ==== 共 1 个域名，成功查询 1 个域名，成功！
 
-// ···
 
 ```
 
@@ -122,7 +121,7 @@ Warning: Problem : timeout. Will retry in 2 seconds. 1 retries left.
 
 ```
 
-// ···
+
 
 Downloading dependencies
 
@@ -178,4 +177,4 @@ Warning: Problem : timeout. Will retry in 2 seconds. 1 retries left.
 ```
 
 
-# enjoy ！ 🤣
+# 🤣🤣 enjoy ！ 
